@@ -6,11 +6,12 @@
 ## Lunch menu 
 | Menu              | Price |
 |:-------------------------|----------|
-| Chicken Curry              | 150   |
-| Pork Curry             | 150       |
-| Beef Steak Curry             | 180       |
+| Beef Steak Curry         | 180       |
+| Chicken Curry            | 150   |
+| Pork Curry               | 150       |
+| Saba miso Steak          | 160      |
 | Salmon Steak             | 230      |
-| Saba miso Steak             | 160      |
+
 
 ## About Us
 
