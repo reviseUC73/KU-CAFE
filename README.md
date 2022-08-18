@@ -21,5 +21,5 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Jitpanu Nopwijit | Add Beveranges | teenteennnii |
+| Jitpanu Nopwijit | Add Beveranges | [teenteennnii](https://github.com/teenteennnii) |
 
