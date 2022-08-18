@@ -10,16 +10,13 @@
 ## Dinner menu
 | Menu                                                  | Price     |
 |:------------------------------------------------------|-----------|
+| Butter Baked Salmon                                   | 100       |
 | Fried Rice                                            | 50        |
 | Pad Thai                                              | 60        |
-| Butter Baked Salmon                                   | 100       |
-| Thai Noodle Soup with Shrimp & Pumpkin                | 250       |
 | Steak                                                 | 150       |
-
+| Thai Noodle Soup with Shrimp & Pumpkin                | 250       |
 
 ## About Us
-
-
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Jirasak Tumbal | Dinner Menu | [breezjirasak](https://github.com/breezjirasak) |
