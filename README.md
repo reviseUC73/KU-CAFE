@@ -22,6 +22,20 @@ Here is how to create a table using Markdown:
 To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment 
 (or any Markdown summary).
 
+
+## Beveranges
+| List                       | Prices |
+|:-------------------------|----------|
+| Drinking Water             | 15     |
+| Tea                        | 35     |
+| Coffee                     | 40     |
+| Milk                       | 20     |
+| Cocoa                      | 25     |
+| Orange Juice               | 25     |
+| Coke                       | 15     |
+| Green tea                  | 20     |
+| Milk Tea                   | 35     |
+
 ## About Us
 
 **TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
