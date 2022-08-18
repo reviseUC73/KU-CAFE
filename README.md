@@ -1,6 +1,6 @@
 # KU Cafe
 
-[Breakfast](#breakfast) | Section2 | Section3 | ...
+[Breakfast](#breakfast) | Section2 | Dinner menu](#dinner-menu) | ...
 
 ## Drive-Thru
 
@@ -18,9 +18,20 @@
 | Cinnamon Rolls           | 40       |
 | Breakfast Burrito        | 80       |
 
+
+## Dinner menu
+| Menu                                                  | Price     |
+|:------------------------------------------------------|-----------|
+| Fried Rice                                            | 50        |
+| Pad Thai                                              | 60        |
+| Butter Baked Salmon                                   | 100       |
+| Thai Noodle Soup with Shrimp & Pumpkin                | 250       |
+| Steak                                                 | 150       |
+
 ## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Zion Keretho | Breakfast |[natekrth](https://github.com/natekrth)   |
+| Jirasak Tumbal | Dinner Menu | [breezjirasak](https://github.com/breezjirasak) |
 
