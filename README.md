@@ -39,7 +39,7 @@
 
 ## Night Food
 
-| List                     | Prices   |
+| List                     | Price    |
 |:-------------------------|----------|
 | Fried Silkworms          | 20       |
 | Pork Meatball            | 10       |
@@ -49,18 +49,17 @@
 
 
 ## Beveranges
-
-| List                       | Prices |
+| List                       | Price  |
 |:-------------------------|----------|
-| Drinking Water             | 15     |
-| Tea                        | 35     |
-| Coffee                     | 40     |
-| Milk                       | 20     |
 | Cocoa                      | 25     |
-| Orange Juice               | 25     |
+| Coffee                     | 40     |
 | Coke                       | 15     |
+| Drinking Water             | 15     |
 | Green tea                  | 20     |
-| Milk Tea                   | 35     |
+| Milk                       | 20     |
+| MilkTea                    | 35     |
+| Orange Juice               | 25     |
+| Tea                        | 35     |
 
 
 ## About Us
