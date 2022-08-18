@@ -1,9 +1,10 @@
 # KU Cafe
-[Night Food](#night-food)
+
+| [Night Food](#night-food) |
 
 ##Night Food
 
-| Night food               | Prices   |
+| List                     | Prices   |
 |:-------------------------|----------|
 | Fried Silkworms          | 20       |
 | Pork Meatball            | 10       |
