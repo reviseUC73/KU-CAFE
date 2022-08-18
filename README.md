@@ -22,5 +22,5 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Jirasak Tumbal | Dinner Menu | @breezjirasak |
+| Jirasak Tumbal | Dinner Menu | [breezjirasak](#https://github.com/breezjirasak) |
 
