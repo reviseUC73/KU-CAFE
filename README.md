@@ -16,8 +16,6 @@
 | Thai Noodle Soup with Shrimp & Pumpkin                | 250       |
 | Steak                                                 | 150       |
 
-To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment 
-(or any Markdown summary).
 
 ## About Us
 
