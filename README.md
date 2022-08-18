@@ -22,6 +22,16 @@ Here is how to create a table using Markdown:
 To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment 
 (or any Markdown summary).
 
+##Night food
+
+| Night food               | Prices   |
+|:-------------------------|----------|
+| Fried Silkworms          | 20       |
+| Pork Meatball            | 10       |
+| Tube Ice-cream           | 5        |
+| Mu Ping                  | 10       |
+| Khanom bueang            | 3        |
+
 ## About Us
 
 **TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
