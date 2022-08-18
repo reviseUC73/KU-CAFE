@@ -10,7 +10,7 @@
 | Chicken Curry              | 150   |
 | Pork Curry             | 150       |
 | Beef Steak Curry             | 180       |
-| Salmon Steak             | 220      |
+| Salmon Steak             | 230      |
 | Saba miso Steak             | 160      |
 
 
