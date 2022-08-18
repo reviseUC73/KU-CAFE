@@ -19,5 +19,5 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| setthanan thongpanchang | Lunch men| reviseUC73 |
+| Setthanan thongpanchang | Lunch menu | [reviseUC73](https://github.com/reviseUC73) |
 
