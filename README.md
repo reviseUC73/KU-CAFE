@@ -1,11 +1,7 @@
 # KU Cafe
 
-[Breakfast](#breakfast) | Section2 | [Dinner menu](#dinner-menu) | [Night Food](#night-food) |
+[Breakfast](#breakfast) | Section2 | [Dinner menu](#dinner-menu) | [Night Food](#night-food) | [Beveranges](#beveranges) |
 
-## Drive-Thru
-
-**TODO**: Replace this with the *actual* sections (plural) of the menu.  Each section should contain a **table** of menu items..    
-**TODO**: Your team should decide what the column headers should be and how to display prices. You want the menu sections to be consistent.
 
 ## Breakfast
 
@@ -29,6 +25,7 @@
 | Thai Noodle Soup with Shrimp & Pumpkin                | 250       |
 | Steak                                                 | 150       |
 
+
 ##Night Food
 
 | List                     | Prices   |
@@ -40,6 +37,21 @@
 | Khanom bueang            | 3        |
 
 
+## Beveranges
+
+| List                       | Prices |
+|:-------------------------|----------|
+| Drinking Water             | 15     |
+| Tea                        | 35     |
+| Coffee                     | 40     |
+| Milk                       | 20     |
+| Cocoa                      | 25     |
+| Orange Juice               | 25     |
+| Coke                       | 15     |
+| Green tea                  | 20     |
+| Milk Tea                   | 35     |
+
+
 ## About Us
 
 | Name      | Role      | Github          |
@@ -47,3 +59,4 @@
 | Zion Keretho | Breakfast |[natekrth](https://github.com/natekrth)   |
 | Jirasak Tumbal | Dinner Menu | [breezjirasak](https://github.com/breezjirasak) |
 | Vorakorn Leechavanan | Night Food | [VorakornLeechavanan](https://github.com/VorakornLeechavanan) |
+| Jitpanu Nopwijit | Beveranges | [teenteennnii](https://github.com/teenteennnii) |
