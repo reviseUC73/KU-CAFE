@@ -1,6 +1,5 @@
 # KU Cafe
-
-[Lunch menu](#lunch-menu) | Section2 | Section3 | ...
+[Lunch menu](#lunch-menu)| Section2 | Section3 | ...
 
 
 
