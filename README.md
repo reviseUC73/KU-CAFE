@@ -1,9 +1,9 @@
 # KU Cafe
 
-[Breakfast](#breakfast) | Section2 | [Dinner menu](#dinner-menu) | [Night Food](#night-food) | [Beveranges](#beveranges) |
+[Breakfast](#breakfast) | [Lunch menu](#lunch-menu) | [Dinner menu](#dinner-menu) | [Night Food](#night-food) | [Beveranges](#beveranges) |
 
 
-## Breakfast
+## Breakfast 
 
 | Menu                     | Price    |
 |:-------------------------|----------|
@@ -13,6 +13,17 @@
 | Biscuits and Gravy       | 60       |
 | Cinnamon Rolls           | 40       |
 | Breakfast Burrito        | 80       |
+
+
+## Lunch menu
+
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Chicken Curry            | 150      |
+| Pork Curry               | 150      |
+| Beef Steak Curry         | 180      |
+| Salmon Steak             | 230      |
+| Saba miso Steak          | 160      |
 
 
 ## Dinner menu
@@ -57,6 +68,7 @@
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Zion Keretho | Breakfast |[natekrth](https://github.com/natekrth)   |
-| Jirasak Tumbal | Dinner Menu | [breezjirasak](https://github.com/breezjirasak) |
+| Setthanan thongpanchang | Lunch | [reviseUC73](https://github.com/reviseUC73) |
+| Jirasak Tumbal | Dinner | [breezjirasak](https://github.com/breezjirasak) |
 | Vorakorn Leechavanan | Night Food | [VorakornLeechavanan](https://github.com/VorakornLeechavanan) |
 | Jitpanu Nopwijit | Beveranges | [teenteennnii](https://github.com/teenteennnii) |
