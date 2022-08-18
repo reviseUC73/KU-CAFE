@@ -61,7 +61,6 @@
 | Coke                       | 15     |
 | Green tea                  | 20     |
 | Milk Tea                   | 35     |
->>>>>>> 971ceecfc56d05757933e8ff60da725c1ebfa252
 
 
 ## About Us
