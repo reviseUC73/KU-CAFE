@@ -7,10 +7,11 @@
 | List                     | Prices   |
 |:-------------------------|----------|
 | Fried Silkworms          | 20       |
+| Khanom bueang            | 3        |
+| Mu Ping                  | 10       |
 | Pork Meatball            | 10       |
 | Tube Ice-cream           | 5        |
-| Mu Ping                  | 10       |
-| Khanom bueang            | 3        |
+
 
 ## About Us
 
