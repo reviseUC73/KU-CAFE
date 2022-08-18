@@ -2,7 +2,6 @@
 
 [Breakfast](#breakfast) | [Lunch menu](#lunch-menu) | [Dinner menu](#dinner-menu) | [Night Food](#night-food) | [Beveranges](#beveranges) |
 
-
 ## Breakfast 
 
 | Menu                     | Price    |
@@ -14,7 +13,6 @@
 | Pancakes and Maple Syrup | 40       |
 | Toasted English Muffin   | 100      |
 
-
 ## Lunch menu
 
 | Menu                     | Price    |
@@ -25,21 +23,19 @@
 | Salmon Steak             | 230      |
 | Saba miso Steak          | 160      |
 
-
 ## Dinner menu
 
 | Menu                                                  | Price     |
 |:------------------------------------------------------|-----------|
+| Butter Baked Salmon                                   | 100       |
 | Fried Rice                                            | 50        |
 | Pad Thai                                              | 60        |
-| Butter Baked Salmon                                   | 100       |
-| Thai Noodle Soup with Shrimp & Pumpkin                | 250       |
 | Steak                                                 | 150       |
-
+| Thai Noodle Soup with Shrimp & Pumpkin                | 250       |
 
 ## Night Food
 
-| List                     | Price    |
+| Menu                     | Price    |
 |:-------------------------|----------|
 | Fried Silkworms          | 20       |
 | Pork Meatball            | 10       |
@@ -49,7 +45,7 @@
 
 
 ## Beveranges
-| List                       | Price  |
+| Menu                       | Price  |
 |:-------------------------|----------|
 | Cocoa                      | 25     |
 | Coffee                     | 40     |
@@ -63,7 +59,6 @@
 
 
 ## About Us
-
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Zion Keretho | Breakfast |[natekrth](https://github.com/natekrth)   |
