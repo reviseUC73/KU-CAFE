@@ -11,12 +11,12 @@
 
 | Menu                     | Price    |
 |:-------------------------|----------|
-| Pancakes and Maple Syrup | 40       |
-| Toasted English Muffin   | 100      |
-| Eggs Benedict            | 60       |
 | Biscuits and Gravy       | 60       |
-| Cinnamon Rolls           | 40       |
 | Breakfast Burrito        | 80       |
+| Cinnamon Rolls           | 40       |
+| Eggs Benedict            | 60       |
+| Toasted English Muffin   | 100      |
+| Pancakes and Maple Syrup | 40       |
 
 ## About Us
 
