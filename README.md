@@ -2,8 +2,6 @@
 
 [Breakfast](#breakfast) | Section2 | Section3 | ...
 
-You learned the Markdown to do this in the `git-commands` assignments.
-
 ## Drive-Thru
 
 **TODO**: Replace this with the *actual* sections (plural) of the menu.  Each section should contain a **table** of menu items..    
@@ -20,12 +18,9 @@ You learned the Markdown to do this in the `git-commands` assignments.
 | Cinnamon Rolls           | 40       |
 | Breakfast Burrito        | 80       |
 
-To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment 
-(or any Markdown summary).
-
 ## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Zion Keretho | Breakfast |  @natekrth   |
+| Zion Keretho | Breakfast |[natekrth](https://github.com/natekrth)   |
 
