@@ -1,7 +1,7 @@
 # KU Cafe
 [Night Food](#night-food)
 
-##Night food
+##Night Food
 
 | Night food               | Prices   |
 |:-------------------------|----------|
@@ -15,5 +15,5 @@
 
 | Name                      | Role           | Github              |
 |:--------------------------|----------------|---------------------|
-| Vorakorn Leechavanan      | Add Night food | [VorakornLeechavanan](https://github.com/VorakornLeechavanan) |
+| Vorakorn Leechavanan      | Add Night Food | [VorakornLeechavanan](https://github.com/VorakornLeechavanan) |
 
